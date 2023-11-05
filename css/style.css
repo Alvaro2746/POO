@@ -1,0 +1,14 @@
+#in div{
+    display: block;
+    color: yellow;
+}
+#table{
+    text-decoration:underline;
+    color: yellow;    
+}
+main{
+    background-color: blue;
+}
+h1{
+    font-size: 400px;
+}
