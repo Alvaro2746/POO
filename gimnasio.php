@@ -49,7 +49,7 @@ class Alumno extends Persona{
     }
 }
 class Entrenador extends Persona{
-    private $aclases;
+    private $aClases;
 
     public function __construct() {
         $this->aClases = array();
